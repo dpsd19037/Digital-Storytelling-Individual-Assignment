@@ -66,12 +66,15 @@ Uploading movie_002.mp4…
 
 
 
+
+
 ### ***Unit 6***:
 >Σε αυτό το unit το directional light είναι νυχτερινό.
 Προσέθεσα κάποια φώτα για να αναδείξω την αράχνη που περπατάει και δύο κάμερες. 
 Τέλος, προσέθεσα ομίχλη στην ατμόσφαιρα (ροζ απόχρωση).
 ![image](https://user-images.githubusercontent.com/101411488/234626976-a851e69e-d31a-4081-b3c4-89178d28900e.png)
 ![image](https://user-images.githubusercontent.com/101411488/234627045-334e03a8-66aa-420f-9d18-5957292aba91.png)
+https://user-images.githubusercontent.com/101411488/234628682-b91f5b76-b70c-4450-8202-e7ba2cce1c12.mp4
 
 
 
@@ -82,6 +85,7 @@ Uploading movie_002.mp4…
 Στο πρώτο πλάνο παρατηρούμε επίσης έναν κάδο που από μέσα του αναδύονται πράσινοι ατμοί και sparks, όπως και από ένα σημείο στον δρόμο.
 ![image](https://user-images.githubusercontent.com/101411488/234627333-635dafca-b225-4d85-97f1-3aa20e0609dc.png)
 ![image](https://user-images.githubusercontent.com/101411488/234627403-a6d7ab02-a576-4f7d-bdf3-325c3848d8da.png)
+https://user-images.githubusercontent.com/101411488/234629981-50e2c487-c9b8-49b5-87da-08535fe15ca8.mp4
 
 
 
