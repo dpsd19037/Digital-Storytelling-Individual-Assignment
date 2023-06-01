@@ -95,6 +95,21 @@ https://user-images.githubusercontent.com/101411488/234629981-50e2c487-c9b8-49b5
 
 # 3rd Deliverable 
 
+Στο τελευταίο παραδοταίο αποφάσισα να φτιάξω ένα ναυπηγείο στο οποίο, ένας εργάτης δουλεύοντας 
+θα χάσει τη ζωή του, ώστε να σχολιάσω τις άσχημες συνθήκες που δουλεύουν οι εργάτες κυρίως στην Ελλάδα. Το περιβάλλον είναι λοιπόν ένα ναυπηγείο, σχεδόν βράδυ. 
+Ο εργάτης δουλεύει στο αναβατόριο, μέχρι που θα πέσει από αυτό και θα σκοτωθεί, λόγω του ελλειπούς εξοπλισμού. 
+Προσέθεσα κάποια φώτα για να φωτήσω το περιβάλλον, κατέβασα assets για να δημιουργήσω το περιβάλλον του ναυπηγίου, skybox, και κάποια κατήρια για background. 
+
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/833b3946-5941-4091-a21c-529d454f81fc)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/4868ea5f-ce0c-41e1-8393-6a892d380707)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/a6bf50fb-3522-4e0b-8b24-3e600e191ee0)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/a32ba4ad-b6a1-4c43-8b16-7dd120040219)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/aba2d07e-2c52-4cec-a8ee-62767640dc17)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/b95f725a-7cfc-4216-b40c-ee8b00c48e28)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/1e044658-09ae-4514-997f-dce6fbc88e7d)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/34b52800-e789-4242-ad8d-a5e405097f3e)
+
+
 
 # Conclusions
 
