@@ -113,6 +113,8 @@ https://user-images.githubusercontent.com/101411488/234629981-50e2c487-c9b8-49b5
 ![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/b95f725a-7cfc-4216-b40c-ee8b00c48e28)
 ![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/1e044658-09ae-4514-997f-dce6fbc88e7d)
 ![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/34b52800-e789-4242-ad8d-a5e405097f3e)
+![image](https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/101411488/e1ab7aee-0dc7-4a60-88b1-b0b2215d2531)
+
 
 
 
