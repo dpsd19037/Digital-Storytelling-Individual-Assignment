@@ -122,7 +122,7 @@ https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/1
 
 
 # Conclusions
-Στο report, δεν ανεβαίνουν τα βίντεο, παρόλο που το μέγθος είναι κάτω από το όριο. Υπάρχουν όλα τα βίντεο στα dailies
+Στο report, δεν ανεβαίνουν τα βίντεο, παρόλο που το μέγεθος είναι κάτω από το όριο. Υπάρχουν όλα τα βίντεο στα dailies
 
 
 # Sources
