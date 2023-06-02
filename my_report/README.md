@@ -75,6 +75,7 @@ Uploading movie.mp4…
 
 
 
+
 ### ***Unit 6***:
 >Σε αυτό το unit το directional light είναι νυχτερινό.
 Προσέθεσα κάποια φώτα για να αναδείξω την αράχνη που περπατάει και δύο κάμερες. 
@@ -121,6 +122,7 @@ https://github.com/dpsd19037/Digital-Storytelling-Individual-Assignment/assets/1
 
 
 # Conclusions
+Στο report, δεν ανεβαίνουν τα βίντεο, παρόλο που το μέγθος είναι κάτω από το όριο. Υπάρχουν όλα τα βίντεο στα dailies
 
 
 # Sources
